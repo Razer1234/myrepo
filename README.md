@@ -1,1 +1,2 @@
-"# myrepo" 
+Duplicated Components in bundle example:
+
