@@ -1,0 +1,270 @@
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\ApplicationInsights.config
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\csc.exe
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\System.Collections.Immutable.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\vbc.exe
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\VBCSCompiler.exe
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\roslyn\VBCSCompiler.exe.config
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\TestReactTs.dll.config
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\TestReactTs.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\TestReactTs.pdb
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.AI.Web.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.AI.WindowsServer.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.ApplicationInsights.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.Web.Infrastructure.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Newtonsoft.Json.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Net.Http.Formatting.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Helpers.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Http.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Http.WebHost.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Mvc.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Razor.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Webpages.Deployment.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Webpages.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Webpages.Razor.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.AI.Web.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.AI.WindowsServer.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.ApplicationInsights.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Razor.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Webpages.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Webpages.Deployment.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Webpages.Razor.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Helpers.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Mvc.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\Newtonsoft.Json.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Net.Http.Formatting.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Http.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\bin\System.Web.Http.WebHost.xml
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\obj\Debug\TestReactTs.csprojResolveAssemblyReference.cache
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\obj\Debug\TestReactTs.dll
+c:\users\g.motovski\documents\visual studio 2015\Projects\TestReactTs\TestReactTs\obj\Debug\TestReactTs.pdb
+D:\ReactTest\TestReactTs\TestReactTs\bin\ApplicationInsights.config
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\csc.exe
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\System.Collections.Immutable.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\System.Reflection.Metadata.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\vbc.exe
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\VBCSCompiler.exe
+D:\ReactTest\TestReactTs\TestReactTs\bin\roslyn\VBCSCompiler.exe.config
+D:\ReactTest\TestReactTs\TestReactTs\bin\TestReactTs.dll.config
+D:\ReactTest\TestReactTs\TestReactTs\bin\TestReactTs.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\TestReactTs.pdb
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.AI.DependencyCollector.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.AI.Web.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.AI.WindowsServer.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.ApplicationInsights.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.Web.Infrastructure.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\Newtonsoft.Json.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Net.Http.Formatting.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Helpers.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Http.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Http.WebHost.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Mvc.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Razor.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Webpages.Deployment.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Webpages.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Webpages.Razor.dll
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.AI.DependencyCollector.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.AI.Web.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.AI.WindowsServer.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.ApplicationInsights.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Razor.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Webpages.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Webpages.Deployment.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Webpages.Razor.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Helpers.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Mvc.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\Newtonsoft.Json.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Net.Http.Formatting.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Http.xml
+D:\ReactTest\TestReactTs\TestReactTs\bin\System.Web.Http.WebHost.xml
+D:\ReactTest\TestReactTs\TestReactTs\obj\Debug\TestReactTs.csprojResolveAssemblyReference.cache
+D:\ReactTest\TestReactTs\TestReactTs\obj\Debug\TestReactTs.dll
+D:\ReactTest\TestReactTs\TestReactTs\obj\Debug\TestReactTs.pdb
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\obj\Debug\TestReactTs.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\obj\Debug\TestReactTs.pdb
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\ApplicationInsights.config
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\csc.exe
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\vbc.exe
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\VBCSCompiler.exe
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\TestReactTs.dll.config
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\TestReactTs.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\TestReactTs.pdb
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.Web.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.ApplicationInsights.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Newtonsoft.Json.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Net.Http.Formatting.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Helpers.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.WebHost.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Mvc.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Razor.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Deployment.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Razor.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.Web.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.ApplicationInsights.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Razor.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Deployment.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Razor.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Helpers.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Mvc.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\Newtonsoft.Json.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Net.Http.Formatting.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.WebHost.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\DuplicatedModulesInbundl\TestReactTs\TestReactTs\TestReactTs\obj\Debug\TestReactTs.csprojResolveAssemblyReference.cache
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\ApplicationInsights.config
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\csc.exe
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\vbc.exe
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\VBCSCompiler.exe
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\TestReactTs.dll.config
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\TestReactTs.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\TestReactTs.pdb
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.Web.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.ApplicationInsights.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Newtonsoft.Json.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Net.Http.Formatting.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Helpers.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.WebHost.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Mvc.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Razor.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Deployment.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Razor.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.Web.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.ApplicationInsights.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Razor.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Deployment.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Razor.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Helpers.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Mvc.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\Newtonsoft.Json.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Net.Http.Formatting.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.WebHost.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\obj\Debug\TestReactTs.csprojResolveAssemblyReference.cache
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\obj\Debug\TestReactTs.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptEmptyProjectBabelLoader - Copy\TestReactTs\TestReactTs\TestReactTs\obj\Debug\TestReactTs.pdb
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\ApplicationInsights.config
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\csc.exe
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\vbc.exe
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\VBCSCompiler.exe
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\TestReactTs.dll.config
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\TestReactTs.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\TestReactTs.pdb
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.Web.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.ApplicationInsights.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Newtonsoft.Json.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Net.Http.Formatting.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Helpers.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.WebHost.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Mvc.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Razor.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Deployment.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Razor.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.Web.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.ApplicationInsights.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Razor.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Deployment.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Webpages.Razor.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Helpers.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Mvc.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\Newtonsoft.Json.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Net.Http.Formatting.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\bin\System.Web.Http.WebHost.xml
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\obj\Debug\TestReactTs.dll
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\obj\Debug\TestReactTs.pdb
+C:\Users\D.Dobrev.CNSYS\Desktop\ReactTypescriptDuplicatedBundleModules\TestReactTs\TestReactTs\TestReactTs\obj\Debug\TestReactTs.csprojResolveAssemblyReference.cache
